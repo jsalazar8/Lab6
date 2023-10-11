@@ -27,5 +27,8 @@ body {
   text-decoration-color: cadetblue;
   text-decoration-thickness: 2px;
   background-color: lightsteelblue;
+}
+#planets th:hover {
+  background-color:cornflowerblue;
 
 }
