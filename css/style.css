@@ -2,10 +2,21 @@ body {
   margin:auto;
   font-family:"Times New Roman", Times, serif;
 }
+
 #title {
   margin:auto;
   color:darkblue;
   text-align: left;
   font-size:xx-large;
   line-height: normal;
+}
+
+#planets,
+#planets th,
+#planets td {
+  border: 4px solid;
+  width: 50%;
+  border-collapse: collapse;
+  text-align: center;
+  vertical-align: middle;
 }
