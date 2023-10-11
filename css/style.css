@@ -30,5 +30,7 @@ body {
 }
 #planets th:hover {
   background-color:cornflowerblue;
-
+}
+#planets td:hover{
+  background-color: dimgrey;
 }
