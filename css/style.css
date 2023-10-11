@@ -21,3 +21,11 @@ body {
   text-align: center;
   vertical-align: middle;
 }
+#planets th {
+  text-decoration: darkslategray;
+  text-decoration:underline;
+  text-decoration-color: cadetblue;
+  text-decoration-thickness: 2px;
+  background-color: lightsteelblue;
+
+}
