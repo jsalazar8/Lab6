@@ -1,5 +1,11 @@
 body {
-  margin:auto
+  margin:auto;
   font-family:"Times New Roman", Times, serif;
 }
-  
+#title {
+  margin:auto;
+  color:darkblue;
+  text-align: left;
+  font-size:xx-large;
+  line-height: normal;
+}
