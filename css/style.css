@@ -18,6 +18,10 @@ body {
   height: 200px;
   border-radius: 60%;
 }
+
+.img:hover{
+  transform:scale(1.2);
+}
 #planets,
 #planets th,
 #planets td {
@@ -35,6 +39,10 @@ body {
   text-decoration-color: cadetblue;
   text-decoration-thickness: 2px;
   background-color: lightsteelblue;
+}
+
+#planets td {
+  background-color:beige;
 }
 
 #planets th:hover {
